@@ -1,0 +1,7 @@
+{
+  "name": "KoperasiKaryawan-Pro",
+  "description": "Sistem Manajemen Koperasi Karyawan Digital terintegrasi dengan fitur Dashboard Analitik, Manajemen Anggota, Simpanan, Pinjaman, dan Asisten Keuangan AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
